@@ -14,8 +14,6 @@ _Would appreciate a second pair of eyes on the test_
 _I am not quite sure how this bit works_
 _Is there a better library for doing x_
 
-CHANGE
-
 ## Scope and particulars of this PR (Please tick all that apply)
 
 -   [ ] Tech hygiene (dependency updating & other tech debt)
